@@ -5,5 +5,13 @@
 
 ## Function: double(n)
 
-### Result:
+## Result:
 Tested double(7) → returns: 14 ✔️
+
+---
+
+## Function: square(n)
+
+## Result:
+Tested square(9) → returns: 81 ✔️
+
