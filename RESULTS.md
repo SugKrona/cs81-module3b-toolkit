@@ -29,3 +29,9 @@ Tested isEven(8) → returns: true ✔️
 ### Result:
 Tested isOdd(7) → returns: true ✔️
 
+---
+
+## Function: multiply(a, b)
+
+### Result:
+Tested multiply(4, 9) → returns: 36 ✔️

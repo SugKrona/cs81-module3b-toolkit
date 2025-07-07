@@ -33,3 +33,11 @@ For example, isEven(8) should return true.
 This function returns true if the number is odd, otherwise false.  
 For example, isOdd(7) should return true.
 
+---
+
+## Function: multiply(a, b)
+
+### Prediction:
+This function returns the result of a multiplied by b.  
+For example, multiply(4, 9) should return 36.
+
