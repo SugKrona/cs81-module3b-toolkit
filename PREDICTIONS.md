@@ -25,3 +25,11 @@ For example, square(9) should return 81.
 This function returns true if the number is even, otherwise false.  
 For example, isEven(8) should return true.
 
+---
+
+## Function: isOdd(n)
+
+### Prediction:
+This function returns true if the number is odd, otherwise false.  
+For example, isOdd(7) should return true.
+

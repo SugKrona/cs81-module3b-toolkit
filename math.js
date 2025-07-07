@@ -13,3 +13,7 @@ function square(n) {
 function isEven(n) {
   return n % 2 === 0;
 }
+// check if a number is odd
+function isOdd(n) {
+  return n % 2 !== 0;
+}

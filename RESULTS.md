@@ -21,3 +21,11 @@ Tested square(9) → returns: 81 ✔️
 
 ### Result:
 Tested isEven(8) → returns: true ✔️
+
+---
+
+## Function: isOdd(n)
+
+### Result:
+Tested isOdd(7) → returns: true ✔️
+
