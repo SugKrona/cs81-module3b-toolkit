@@ -15,3 +15,9 @@ Tested double(7) → returns: 14 ✔️
 ## Result:
 Tested square(9) → returns: 81 ✔️
 
+---
+
+## Function: isEven(n)
+
+### Result:
+Tested isEven(8) → returns: true ✔️

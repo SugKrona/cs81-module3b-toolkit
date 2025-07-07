@@ -17,3 +17,11 @@ For example, double(7) should return 14.
 - This function will return the square of the number (n × n).  
 For example, square(9) should return 81.
 
+---
+
+## Function: isEven(n)
+
+## Prediction:
+This function returns true if the number is even, otherwise false.  
+For example, isEven(8) should return true.
+
